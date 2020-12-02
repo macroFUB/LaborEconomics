@@ -14,5 +14,5 @@ In order to run the notebook, you need to install Jupyter via pip or conda. <br>
 - conda: https://docs.conda.io/projects/conda/en/latest/index.html
 - Jupyter: https://jupyter.org/install
 <br><br>
-- Once set up, you can install s Stata kernel to run Stata code in Jupyter.<br>
+Once set up, you can install Stata kernel to run Stata code in Jupyter.<br>
 https://kylebarron.dev/stata_kernel/
