@@ -1,4 +1,4 @@
-# HROMakro
+# Labor Economics
 Repository for teaching 
 
 ### Authorship:
